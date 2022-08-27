@@ -1,4 +1,9 @@
+"++ Scanner ++"
 
+"""
+Name = Yash Vyavahare
+Gmail = yashvyawahare02@gmail.com
+"""
 
 import urllib.request as request
 import numpy as np
